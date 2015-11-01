@@ -1,0 +1,23 @@
+name: Zelda Desk
+favicon: null
+layout_spectrum: 0.28741922695189714
+typography_spectrum: 0.9142950482200831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13100736634805799
+  lightness: 0.9818407057318836
+  saturation: 0.7194195126648992
+  rhythmicContrast: 0.43634666921570897
+purpose: []
